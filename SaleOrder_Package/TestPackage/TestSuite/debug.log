@@ -1,0 +1,2 @@
+[0423/085557.453:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\keerv\AppData\Local\Temp\scoped_dir7596_806\Crashpad: The system cannot find the path specified. (0x3)
+[0125/112346.049:ERROR:exception_handler_server.cc(526)] ConnectNamedPipe: The pipe is being closed. (0xE8)
