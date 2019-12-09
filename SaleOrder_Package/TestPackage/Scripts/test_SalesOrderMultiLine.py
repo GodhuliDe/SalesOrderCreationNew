@@ -15,9 +15,9 @@ from selenium.webdriver.support.wait import WebDriverWait
 from SaleOrder_Package.TestPackage.PageObject.Locators import Locator
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-import time
+# import time
 import pytest
-import pytest_parallel
+# import pytest_parallel    CHANGED IN GIT
 
 from SaleOrder_Package.TestPackage.PageObject.Pages.AllSalesOrdersPage import AllSalesOrderPage
 print('__file__={0:<35} | __name__={1:<20} | __package__={2:<20}'.format(__file__,__name__,str(__package__)))
